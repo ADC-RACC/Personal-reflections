@@ -1,0 +1,20 @@
+What is Version Control?
+Version control allows multiple people to work on the same project without writing over or changing each other's work. Put in video game terms it’s multiple peoples save files that you can put together for a segmented speedrun.
+
+What is Git?
+Git is a version control software that allows version control for your code and files. In video game terms it’s a save game button.
+
+What is GitHub?
+GitHub is the company that owns a website to put your version control Git files. It’s the website to access the cloud code that you stored using Git.
+
+What's the difference between Git and GitHub?
+So while Github is where we access our cloud saved files Git is the actual software/code that saves it there.
+
+Can you think of an analogy to describe them?
+If I were to describe it in a bit of a silly way, Github is like the actual clouds and Git is like a trebuchet that can launch your code into the clouds. That code then only returns from the sky when needed.
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+Yes, because the naming of them seems intuitive to me.
+
+Did you stick to the timebox suggestions? If not, why not?
+I did not stick to the explore time box, because I had already done some research on Git and Github the last two days while I was stressing out for the course.
