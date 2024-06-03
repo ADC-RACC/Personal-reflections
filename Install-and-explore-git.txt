@@ -1,0 +1,10 @@
+What is a Git workflow?
+It’s, from my understanding, a branching path that is the recipe to produce a product using Git and Github, or working in a team, etc. It’s used to ensure nothing goes wrong. From what I can understand, usually it begins with everyone in a team cloning the main directory from github, editing files or whatever else, setting them in the staging area, then once everything needed is committed, pushing changes to the main directory.
+
+What did you notice about your learning? What did you do when you were confused or blocked?
+I noticed that I had not set up properly so I spent quite a while on that since I had quite a bit of unanswered questions, but it seems to work now. I have a lot of confusion, but I was able to fix a few errors and understand a bit more about Ubuntu and Visual Studio. I believe if I set myself some simple tasks I will be able to learn more very quickly.
+
+Is there anything you'd do differently if you were to repeat the learning exploration?
+I would try to understand how locked files interact with Ubuntu and Git. But I do not remember how to make locked files so I will leave that for another day.
+
+Update: I have remembered Toggl exists.

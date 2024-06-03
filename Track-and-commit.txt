@@ -1,0 +1,2 @@
+How would you describe stage and commit to your non-tech-savvy friend?
+I would describe it like: Stage is what you’re thinking of writing down on a piece of paper, and Commit is writing down those thoughts on the paper to remember later.
