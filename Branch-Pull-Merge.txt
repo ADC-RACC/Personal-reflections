@@ -1,0 +1,8 @@
+What is main?
+Main is the default or main branch where all of the best working code should be.
+
+Why create a branch?
+You create branches to make changes to the project without affecting the main branch. Meaning if something breaks or gets deleted it’s not permanent and can be reverted back to main.
+
+Do the concepts introduced feel intuitive or difficult to understand?
+A little bit. I feel I can understand it better with more practice in groups.
